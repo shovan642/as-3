@@ -1,0 +1,33 @@
+.bg-color-1{
+    background-color: #B68C5A !important;
+}
+.bg-color-2{
+    background-color: #F3F3F3 !important;
+}
+.color-1{
+    color: #707070 !important;
+}
+.color-2{
+    color: #E7E7E7 !important;
+}
+.color-3{
+    color: #B68C5A;
+}
+.color-4{
+    color: #414040;
+}
+.custom-bottom {
+    bottom: 12%;
+}
+
+.custom-height{
+    height: 500px;
+}
+
+.accordion-button:not(.collapsed){
+    color: #414040;
+} 
+
+.accordion-button:not(.collapsed)::after{
+    color: #414040
+}
